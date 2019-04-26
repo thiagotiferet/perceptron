@@ -2,9 +2,13 @@
 Rede perceptron para reconhecimento de caracteres
 
 Características da RNA:
+
   Entradas: 63 (matriz 9x7);
+  
   Saídas: 7 (letras: A, B, C, D, E, J, K);
+  
   Tipo de Treinamento: Perceptron;
+  
   Função de transferência: Bipolar.
   
 Observações:  
