@@ -12,6 +12,7 @@ CARACTERISTICAS DA RNA:
   Função de transferência: Bipolar.
   
   
+  
 OBSERVAÇÕES:
 
   As letras a serem reconhecidas são descritas por uma matriz de entrada no formato: 9 linhas x 7 colunas.
