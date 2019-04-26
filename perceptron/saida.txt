@@ -1,0 +1,82 @@
+NUMERO DE EPOCA PARA TREINO = 4
+RESULTADOS CLASSIFICACAO
+ENTRADA FONTE 1
+A . . . . . . 
+. B . . . . . 
+. . C . E . K 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+ENTRADA FONTE 2
+. . . . . . K 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J K 
+. . . . . . K 
+ENTRADA FONTE 3
+. . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . K 
+. . . . . J . 
+. . . . . . K 
+
+
+
+NUMERO DE EPOCA PARA TREINO = 3
+RESULTADOS CLASSIFICACAO
+ENTRADA FONTE 1
+A . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+ENTRADA FONTE 2
+A . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+ENTRADA FONTE 3
+A . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+ENTRADA FONTE 4
+A . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+ENTRADA FONTE 5
+A . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+ENTRADA FONTE 6
+A . . . . . . 
+. B . . . . . 
+. . C . . . . 
+. . . D . . . 
+. . . . E . . 
+. . . . . J . 
+. . . . . . K 
+
+
+
